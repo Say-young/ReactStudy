@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import LandingPage from './pages/LandingPage';
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
   return (
     <LandingPage />
   );
+
 }
 
 export default App;

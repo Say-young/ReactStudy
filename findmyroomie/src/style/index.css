@@ -1,22 +1,3 @@
-/* 
- global css
-*/
-
-/*  글씨체 */
-@font-face {
-  font-family: 'Campton';
-  src: url('./fonts/Campton-BoldDEMO\ 2.otf') format('opentype');
-  font-style: normal;
-  font-weight: 700;
-}
-
-@font-face {
-  font-family: 'Campton';
-  src: url('./fonts/Campton-LightDEMO\ 2.otf') format('opentype');
-  font-style: normal;
-  font-weight: 100;
-}
-
 @font-face {
   font-family: 'Spoqa-Han-Sans';
   src: url('./fonts/Spoqa\ Han\ Sans\ Neo\ Light.otf') format('opentype');
@@ -34,13 +15,6 @@
 @font-face {
   font-family: 'Spoqa-Han-Sans';
   src: url('./fonts/Spoqa\ Han\ Sans\ Neo\ Bold.otf') format('opentype');
-  font-style: normal;
-  font-weight: 700;
-}
-
-@font-face {
-  font-family: 'Cantarell';
-  src: url('./fonts/Cantarell-Bold.ttf') format('opentype');
   font-style: normal;
   font-weight: 700;
 }
